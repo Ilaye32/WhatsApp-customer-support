@@ -86,7 +86,7 @@ Obtain these from **[developers.facebook.com](https://developers.facebook.com/)*
 ## Installation
 
 ```bash
-git clone [<repo-url>](https://github.com/Ilaye32/WhatsApp-customer-support.git)
+git clone [<[repo-url](https://github.com/Ilaye32/WhatsApp-customer-support.git))>]
 cd WhatsApp-customer-support
 
 python -m venv venv
